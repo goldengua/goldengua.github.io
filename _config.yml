@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me"
+title                    : "     About me    "
 title_separator          : "-"
 name                     : &name "Jiaxuan (Sherry) Li 李嘉璇"
 description              : &description "Computational Psycholinguist"
