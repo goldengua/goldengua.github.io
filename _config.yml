@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiaxuan Li (李嘉璇)| Psycholinguist"
+title                    : "Jiaxuan Li (李嘉璇) | Psycholinguist"
 title_separator          : "-"
 name                     : &name "Jiaxuan (Sherry) Li 李嘉璇"
 description              : &description "Computational Psycholinguist"
