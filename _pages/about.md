@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 My name is Jiaxuan Li (tɕa˥ ɕʷæn˧˥ lʲi˥) and I am a second-year master student in Computational Social Sciences at the University of Chicago. As a computational psycholinguist, my research build bridges between human brains and machines, addressing how human language is represented and processed in mind, and how it is different from machine language. I am concerned with 
+
 (i) the temporal and hierarchical aspects of syntactic and semantic processing in real-time language comprehension;
 (ii) the role of attention in second language acquisition; 
-(iii) interaction between psychological experiments and NLP models 
+(iii) interaction between psychological experiments and NLP models.
+
 I use behavioral, electrophysiological methods (e.g. eye-tracking, self-paced reading, EEG), as well as computational modeling with state-of-the-art NLP models (e.g. GloVe, LSTM, transformers). 
 
 I am currently working with [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/) on the neural nature of contextual effect on online sentence comprehension. I am also supervised by [Dr. Allyson Ettinger](https://aetting.github.io/index.html) to implement a neuro-computational noisy-channel model to explain the discrepancies in psycholinguistic research of sentence processing, including the argument-role reversal effect and semantic illusion effect. 
