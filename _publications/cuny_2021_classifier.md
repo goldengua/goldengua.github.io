@@ -13,4 +13,4 @@ and the facilitation effect of prediction on expected words has been associated 
 
 [Download paper here](http://academicpages.github.io/files/cuny_2021_classifier.pdf)
 
-Recommended citation: Li, J., Ou, J. & Xiang, M. (2021). The benefits and costs of language prediction: Evidence from ERPs. <i>Short talk presented at 34th Annual CUNY Conference on Human Sentence Processing.
+Recommended citation: Li, J., Ou, J. & Xiang, M. (2021). The benefits and costs of language prediction: Evidence from ERPs. <i>Short talk presented at 34th Annual CUNY Conference on Human Sentence Processing.</i>
