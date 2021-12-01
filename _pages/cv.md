@@ -11,11 +11,16 @@ redirect_from:
 
 Education
 ======
+* M.A. in Computational Social Sciences, University of Chicago, 2021 
 * B.A. in Chinese and Bilingual Studies, The Hong Kong Polytechnic University, 2019
-* M.S. in Computational Social Sciences, University of Chicago, 2021 (expected)
+
 
 Research experience
 ======
+* Fall 2021 - Present: Language Processing Group (Supervisor: Dr. Richard Futrell) | University of California, Irvine
+  * Investigating the asymmetrical garden-path effect
+  * Investigate the relationship between pre-trained language models and neural signals of language processing
+  
 * Summer 2019 - Present: Language Processing Lab (Supervisor: Dr. Ming Xiang) | University of Chicago
   * Investigating the neural nature of contextual effects on expected and unexpected linguistic inputs
   * Designing stimuli and developing ERP experiment scriptsand 
@@ -46,7 +51,8 @@ Research experience
 
 Employment
 ======
-* Summer 2019 - Present: Research Assistant (Supervisor: Dr. Ming Xiang) | University of Chicago
+  
+* Summer 2019 - 2021: Research Assistant (Supervisor: Dr. Ming Xiang) | University of Chicago
   * Collecting ERP and ABR data for multiple projects related to language comprehension
   * Designing cloze task and norming experiment stimuli
   * Analysing ERP data with MATLAB and Python
