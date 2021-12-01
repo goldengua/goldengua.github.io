@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-My research focus on three aspects:
+My research focus on two aspects:
 
 # Neural mechanisms of real-time language comprehension
 * Comprehenders could make advantage of contextual information to generate prediction and facilitate the processing of upcoming linguistic input during online sentence reading, however, it remains unclear the neural nature of context effect on sentence processing. The present study examines (1) whether context effect could affect the processing of unexpected linguistic inputs differently from expected inputs; and (2) whether there would be distinct neural process for language prediction in contexts with high- and low-levels of representation. We contrasted Chinese classifier-noun and verb-noun phrases to manipulate cloze probability (word predictability), plausibility, sentential constraints (how strongly a context would lead to a specific prediction), and levels of representation in a single ERP study. While we are still on data collection stage, the preliminary data show there was a frontal positivity effect on processing unexpected words in strongly v.s. weakly constraining contexts, suggesting a distinct neural signal to index inhibit disconfirmed language prediction.
