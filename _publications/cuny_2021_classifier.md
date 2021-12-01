@@ -3,7 +3,7 @@ title: "The benefits and costs of language prediction: Evidence from ERPs"
 collection: publications
 permalink: /publication/cuny_2021_classifier
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2021
+date: 2021-3-14
 venue: '34th Annual CUNY Conference on Human Sentence Processing'
 paperurl: 'http://academicpages.github.io/files/cuny_2021_classifier.pdf'
 citation: 'Li, J., Ou, J. & Xiang, M. (2021). &quot;The benefits and costs of language prediction: Evidence from ERPs.&quot; <i>Short talk presented at 34th Annual CUNY Conference on Human Sentence Processing.'
