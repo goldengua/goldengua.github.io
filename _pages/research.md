@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-# Conference Presentations
+## Conference Presentations
 ### 2022
 3. Jiaxuan Li & Richard Futrell. Pre-trained language models can track some ERP components in language processing. Poster at the 35th Annual Conference on Human Sentence Processing, California [virtual], March 24-26. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/hsp_2022_LM_PNP.pdf)
 3. Weijie Xu, Jiaxuan Li & Ming Xiang. Syntactic adaptation to short-term cue-based distributional regularities. Poster at the 35th Annual Conference on Human Sentence Processing, California [virtual], March 24-26. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/hsp_2022_SynAdapt.pdf)
