@@ -16,6 +16,8 @@ author_profile: true
 
 ## Manuscripts and Publications
 1. Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. Submitted to Cognition. [pdf] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4115173)
+
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
