@@ -15,7 +15,7 @@ author_profile: true
 1. Jiaxuan Li & Allyson Ettinger. A noisy channel of N400 and P600 effects in sentence processing. Short talk at the 34th Annual CUNY Conference on Human Sentence Processing, Philadelphia [virtual], March 4-6. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/cuny_2021_noisy_channel.pdf)
 
 ## Manuscripts and Publications
-1. Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. Submitted to Cognition. [pdf] (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4115173)
+1. Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. Submitted to Cognition. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4115173)
 
 
 {% if author.googlescholar %}
