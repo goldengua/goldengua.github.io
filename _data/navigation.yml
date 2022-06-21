@@ -6,8 +6,8 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
   
-  - title: "Teaching"
-    url: /teaching/ 
+  #- title: "Teaching"
+  #  url: /teaching/ 
     
   - title: "CV"
     url: /cv/
