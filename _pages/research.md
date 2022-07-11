@@ -9,7 +9,7 @@ author_profile: true
 
 ## Conference Presentations
 #### 2022
-- Jiaxuan Li & Richard Futrell. A decomposition of surprisal predicts N400 and P600 in language processing. Poster at 28th annual conference on Architectures and Mechanisms for Language Processing (AMLaP2022), York, UK, 2022. [pdf] (https://github.com/goldengua/goldengua.github.io/blob/master/files/amlap_2022_surprisal_decomposition.pdf)
+- Jiaxuan Li & Richard Futrell. A decomposition of surprisal predicts N400 and P600 in language processing. Poster at 28th annual conference on Architectures and Mechanisms for Language Processing (AMLaP2022), York, UK, 2022. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/amlap_2022_surprisal_decomposition.pdf)
 
 - Weijie Xu, Jiaxuan Li, Ming Xiang & Richard Futrell. Syntactic adaptation to short-term cue-based distributional regularities. Poster at the 44th Annual Conference Cognitive Science (CogSci2022), Toronto, Canada, 2022. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/cogsci_2022_SynAdapt_Model.pdf)
 
