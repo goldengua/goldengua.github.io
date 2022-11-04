@@ -7,7 +7,7 @@ author_profile: true
 
 
 
-## Conference Presentations
+## Peer-reviewed Conferences
 ### 2022
 - Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog), New Orleans, US, 2022. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/NeurIPS_2022_NoisyERP.pdf)
 
