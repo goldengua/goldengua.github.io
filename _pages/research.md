@@ -11,7 +11,7 @@ author_profile: true
 ### 2022
 - Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog), New Orleans, US, 2022. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/NeurIPS_2022_NoisyERP.pdf)
 
-- Jiaxuan Li & Allyson Ettinger. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI), New Orleans, US, 2022. [pdf](https://openreview.net/forum?id=sS5hCtc-uQ)
+- Jiaxuan Li, Yu Lang & Allyson Ettinger. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI), New Orleans, US, 2022. [pdf](https://openreview.net/forum?id=sS5hCtc-uQ)
 
 - Jiaxuan Li & Richard Futrell. A decomposition of surprisal predicts N400 and P600 in language processing. Poster at 28th annual conference on Architectures and Mechanisms for Language Processing (AMLaP2022), York, UK, 2022. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/amlap_2022_surprisal_decomposition.pdf)
 
