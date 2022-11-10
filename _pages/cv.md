@@ -7,5 +7,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download my CV here](http://goldengua.github.io/files/CV_JiaxuanLi_2022.pdf)
 
