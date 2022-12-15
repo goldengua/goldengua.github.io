@@ -5,13 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-
+## Publications
+- Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. To appear in Cognition. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4115173)
 
 ## Peer-reviewed Conferences
 ### 2022
-- Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog), New Orleans, US, 2022. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/NeurIPS_2022_NoisyERP.pdf)
+- Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog), New Orleans, US, 2022. [pdf](https://openreview.net/pdf?id=fYzwjX_XC0C)
 
-- Jiaxuan Li, Yu Lang & Allyson Ettinger. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI), New Orleans, US, 2022. [pdf](https://openreview.net/forum?id=sS5hCtc-uQ)
+- Jiaxuan Li, Yu Lang & Allyson Ettinger. A unified information-theoretic model of EEG signatures of human language processing. Poster at NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI), New Orleans, US, 2022. [pdf](https://arxiv.org/abs/2212.03278)
 
 - Jiaxuan Li & Richard Futrell. A decomposition of surprisal predicts N400 and P600 in language processing. Poster at 28th annual conference on Architectures and Mechanisms for Language Processing (AMLaP2022), York, UK, 2022. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/amlap_2022_surprisal_decomposition.pdf)
 
@@ -25,9 +26,6 @@ author_profile: true
 - Jiaxuan Li & Ming Xiang. The benefits and costs of language prediction: Evidence from ERPs. Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY2021), Philadelphia [virtual], March 4-6, 2021. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/cuny_2021_classifier.pdf)
 
 - Jiaxuan Li & Allyson Ettinger. A noisy channel of N400 and P600 effects in sentence processing. Short talk at the 34th Annual CUNY Conference on Human Sentence Processing (CUNY2021), Philadelphia [virtual], March 4-6, 2021. [pdf](https://github.com/goldengua/goldengua.github.io/blob/master/files/cuny_2021_noisy_channel.pdf)
-
-## Manuscripts and Publications
-- Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. Submitted to Cognition. [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4115173)
 
 
 {% if author.googlescholar %}
