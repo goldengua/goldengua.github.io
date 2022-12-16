@@ -6,11 +6,11 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
-<p> Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. <i> To appear in Cognition. </i> [pdf](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4115173) </p>
+<p> Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. <i> To appear in Cognition. </i> <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4115173">[PDF]</a> </p>
 
 <h2> Peer-reviewed Conferences </h2>
 <p> <b> 2022 </b> </p>
-<p> Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog) </i>, New Orleans, US, 2022. [pdf](https://openreview.net/pdf?id=fYzwjX_XC0C) </p>
+<p> Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog) </i>, New Orleans, US, 2022. <a href = "https://openreview.net/pdf?id=fYzwjX_XC0C"> [PDF] </a> </p>
 
 <p> Jiaxuan Li, Yu Lang & Allyson Ettinger. A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI) </i>, New Orleans, US, 2022. [pdf](https://arxiv.org/abs/2212.03278) </p>
 
