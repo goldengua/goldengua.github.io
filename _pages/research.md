@@ -11,7 +11,7 @@ author_profile: true
 <h2> Peer-reviewed Conferences </h2>
 <p> <b> 2022 </b> </p>
 
-<p> Jiaxuan Li, Shiva Upadhye & Richard Futrell. Bridging production and comprehension: A computational model of error generation and correction. Poster at the 36th Annual Conference on Human Sentence Processing (HSP), Pittsburgh, US, 2023. </p> <a href = "https://openreview.net/pdf?id=fYzwjX_XC0C]https://github.com/goldengua/goldengua.github.io/blob/master/files/HSP23_Poster.pdf"> [PDF] </a> </p>
+<p> Jiaxuan Li, Shiva Upadhye & Richard Futrell. Bridging production and comprehension: A computational model of error generation and correction. Poster at the 36th Annual Conference on Human Sentence Processing (HSP), Pittsburgh, US, 2023. <a href = "https://openreview.net/pdf?id=fYzwjX_XC0C]https://github.com/goldengua/goldengua.github.io/blob/master/files/HSP23_Poster.pdf"> [PDF] </a> </p>
 
 <p> Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog) </i>, New Orleans, US, 2022. <a href = "https://openreview.net/pdf?id=fYzwjX_XC0C"> [PDF] </a> </p>
 
