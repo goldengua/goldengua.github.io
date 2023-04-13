@@ -86,7 +86,7 @@ author:
   location         : "University of California, Irvine"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  #googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=3zQVzRIAAAAJ&hl=en&oi=ao"
   email            : "jiaxul19@uci.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
