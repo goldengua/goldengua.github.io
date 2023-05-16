@@ -9,10 +9,10 @@ author_profile: true
 <p> Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. <i> Cognition, </i> 233, 105359. <a href= "https://authors.elsevier.com/sd/article/S0010-0277(22)00348-1">[PDF]</a> </p>
 
 <h2> Peer-reviewed Conferences </h2>
+<p> <b> 2023 </b> </p>
+<p> Shiva Upadhye*, Jiaxuan Li* & Richard Futrell (*=equal contribution). Bridging production and comprehension: Toward an integrated computational model of error correction. Poster at the Society for Computation in Linguistics 2023 (SCiL 2023), Amherst, US, 2023. <a href = "https://github.com/goldengua/goldengua.github.io/blob/master/files/SCiL_2023_Error_Monitor.pdf"> [PDF] </a> </p>
+
 <p> <b> 2022 </b> </p>
-
-<p> Jiaxuan Li, Shiva Upadhye & Richard Futrell. Bridging production and comprehension: A computational model of error generation and correction. Poster at the 36th Annual Conference on Human Sentence Processing (HSP), Pittsburgh, US, 2023. <a href = "https://github.com/goldengua/goldengua.github.io/blob/master/files/HSP23_Poster.pdf"> [PDF] </a> </p>
-
 <p> Jiaxuan Li & Richard Futrell. A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Information-Theoretic Principles in Cognitive Systems (InfoCog) </i>, New Orleans, US, 2022. <a href = "https://openreview.net/pdf?id=fYzwjX_XC0C"> [PDF] </a> </p>
 
 <p> Jiaxuan Li, Yu Lang & Allyson Ettinger. A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI) </i>, New Orleans, US, 2022. <a href = "https://arxiv.org/abs/2212.03278"> [PDF] </a> </p>
