@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
-<p> Jiaxuan Li & Allyson Ettinger. Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. <i> Cognition, </i> 233, 105359. <a href= "https://authors.elsevier.com/sd/article/S0010-0277(22)00348-1">[PDF]</a> </p>
+<p> Jiaxuan Li, Lang Yu & Allyson Ettinger (2023). Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios. The 61st Annual Meeting of the Association for Computational Linguistics (ACL). </p>
+<p> Jiaxuan Li and Richard Futrell (2023). A decomposition of surprisal tracks the N400 and P600 brain potentials. In Proceedings of the 45th Annual Meeting of the Cognitive Science Society. </p>
+<p> Jiaxuan Li & Allyson Ettinger (2023). Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. <i> Cognition, </i> 233, 105359. <a href= "https://authors.elsevier.com/sd/article/S0010-0277(22)00348-1">[PDF]</a> </p>
 
 <h2> Peer-reviewed Conferences </h2>
 <p> <b> 2023 </b> </p>
