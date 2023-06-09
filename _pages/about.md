@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in Language Science at the University of California, Irvine, where I work with [Dr. Richard Futrell](http://socsci.uci.edu/~rfutrell/) on psychological and computational aspects of sentence comprehension. Before joining UCI, I worked with [Dr. Allyson Ettinger](https://aetting.github.io/research.html) and [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/) at the University of Chicago. My research build bridges between human brains and machines, addressing how human language is represented and processed in mind, and how it is different from machine language. I am concerned with 
+I am a second-year PhD student in Language Science at the University of California, Irvine, where I work with [Dr. Richard Futrell](http://socsci.uci.edu/~rfutrell/) on psychological and computational aspects of sentence comprehension. Before joining UCI, I worked with [Dr. Allyson Ettinger](https://aetting.github.io/research.html) and [Dr. Ming Xiang](https://lucian.uchicago.edu/blogs/mingxiang/) at the University of Chicago. My research build bridges between human brains and machines, addressing how human language is represented and processed in mind, and how it is different from machine language. I am concerned with 
 
 * (i) noisy-channel rational inference in real-time language comprehension;
 * (ii) the neural basis of language processing and adaptation;
