@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
-<p> Jiaxuan Li, Jinghua Ou & Ming Xiang (2023). Context-specific effects of violated expectations: ERP evidence. <i> Cognition, </i> 241, 105628. <a href = "https://github.com/goldengua/goldengua.github.io/blob/master/files/Cognition_2023_ClassifierERP.pdf">[PDF]</a></p>
+<p> Jiaxuan Li, Jinghua Ou & Ming Xiang (2023). Context-specific effects of violated expectations: ERP evidence. <i> Cognition, </i> 241, 105628. <a href = "https://goldengua.github.io/files/Cognition_2023_ClassifierERP.pdf">[PDF]</a></p>
 <p> Jiaxuan Li, Lang Yu & Allyson Ettinger (2023). Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios. <i> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL).</i> <a href="https://github.com/goldengua/goldengua.github.io/blob/master/files/ACL_2023_Counterfactual.pdf">[PDF]</a> </p>
 <p> Jiaxuan Li and Richard Futrell (2023). A decomposition of surprisal tracks the N400 and P600 brain potentials. <i> In Proceedings of the 45th Annual Meeting of the Cognitive Science Society.</i> <a href = "https://github.com/goldengua/goldengua.github.io/blob/master/files/CogSci_2023_Decomposition_ERP.pdf">[PDF]</a> </p>
 <p> Jiaxuan Li & Allyson Ettinger (2023). Heuristic Interpretation as Rational Inference: A Computational Model of the N400 and P600 in Language Processing. <i> Cognition, </i> 233, 105359. <a href= "https://authors.elsevier.com/sd/article/S0010-0277(22)00348-1">[PDF]</a> </p>
