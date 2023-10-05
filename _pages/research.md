@@ -34,9 +34,9 @@ author_profile: true
 <p> Jiaxuan Li & Allyson Ettinger. A noisy channel of N400 and P600 effects in sentence processing. <i> The 34th Annual CUNY Conference on Human Sentence Processing (CUNY2021) </i>, Philadelphia, March 4-6, 2021. <a href = "https://goldengua.github.io/files/cuny_2021_noisy_channel.pdf"> [PDF] </a> </p>
 
 
-{% if author.googlescholar %}
+
   You can also find my articles on <u><a href="https://scholar.google.com/citations?user=3zQVzRIAAAAJ&hl=en&oi=ao">my Google Scholar profile</a>.</u>
-{% endif %}
+
 
 {% include base_path %}
 
