@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
+<p> Jiaxuan Li & Richard Futrell (2024). A information-theoretic model of shallow and deep language comprehension. <i> In Proceedings of the 46th Annual Meeting of the Cognitive Science Society.</i> <a href = "https://arxiv.org/abs/2405.08223">[PDF]</a> </p>
 <p> Jiaxuan Li, Jinghua Ou & Ming Xiang (2023). Context-specific effects of violated expectations: ERP evidence. <i> Cognition, </i> 241, 105628. <a href = "https://goldengua.github.io/files/Cognition_2023_ClassifierERP.pdf">[PDF]</a></p>
 <p> Jiaxuan Li, Lang Yu & Allyson Ettinger (2023). Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios. <i> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL).</i> <a href="https://goldengua.github.io/files/ACL_2023_Counterfactual.pdf">[PDF]</a> </p>
 <p> Shiva Upadhye*, Jiaxuan Li* & Richard Futrell (*=equal contribution). Bridging production and comprehension: Toward an integrated computational model of error correction. Poster at the Society for Computation in Linguistics 2023 (SCiL 2023), Amherst, US, 2023. <a href = "https://goldengua.github.io/files/SCiL_2023_Error_Monitor.pdf"> [PDF] </a> </p>
@@ -15,8 +16,13 @@ author_profile: true
 <p> Jiaxuan Li, Lang Yu & Allyson Ettinger (2022). A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI) </i>, New Orleans, US, 2022. <a href = "https://arxiv.org/abs/2212.03278"> [PDF] </a> </p>
 
 <h2> Peer-reviewed Conference Presentations </h2>
+<p> <b> 2024 </b> </p>
+
+<p> Jiaxuan Li, Hailin Hao & Richard Futrell. Language models can adapt better to within-clause than across-clause exchange errors. Poster at the 6th California Annual Meetings for Psycholinguistics (CAMP6), California, US, 2024.</p>
+
+<p> Chih-Chao Will Chang, Jiaxuan Li & Xin Xie. Sentence predictability shapes the encoding of phonetic detail. Society for the Neurobiology of Language 16th Annual Meeting, Brisbane, Australia, 2024. </p>
+
 <p> <b> 2023 </b> </p>
-<p> Jiaxuan Li, Hailin Hao & Richard Futrell. Language models can adapt better to within-clause than across-clause exchange errors. Poster at the 6th California Annual Meetings for Psycholinguistics (CAMP6), California, US, 2023.</p>
 
 <p> Jiaxuan Li, Alyssa Ortega, Richard Futrell & Rachel Ryskin. Do ERP indices of rational inference in real-time comprehension track the noise rate in the environment? Poster at conference on Architectures and Mechanisms for Language Processing Asia (AMLaP Asia), Hong Kong, 2023. </p>
 
