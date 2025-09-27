@@ -6,6 +6,8 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
+<p> *Shiva Upadhye, *Jiaxuan Li & Richard Futrell  (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs.  In <i> Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics. </i> <a href "https://aclanthology.org/2025.cmcl-1.19/">[PDF]</a> (*= equal contribution) </p>
+<p>Jiaxuan Li, Alyssa Ortega, Richard Futrell & Rachel Ryskin (2025). Adaptation to noisy language input in real time: Evidence from ERPs. In <i>{Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</i><a href = "https://escholarship.org/uc/item/8cm7p4hw#:~:text=Adaptation%20to%20noisy%20language%20input%20in%20real%20time%3A%20Evidence%20from%20ERPs,-2025&text=Language%20comprehension%20often%20deviates%20from,errors%20resembles%20more%20plausible%20alternatives.">[PDF]</a> </p>
 <p> Jiaxuan Li & Richard Futrell (2024). A information-theoretic model of shallow and deep language comprehension. <i> In Proceedings of the 46th Annual Meeting of the Cognitive Science Society.</i> <a href = "https://arxiv.org/abs/2405.08223">[PDF]</a> </p>
 <p> Jiaxuan Li, Jinghua Ou & Ming Xiang (2023). Context-specific effects of violated expectations: ERP evidence. <i> Cognition, </i> 241, 105628. <a href = "https://goldengua.github.io/files/Cognition_2023_ClassifierERP.pdf">[PDF]</a></p>
 <p> Jiaxuan Li, Lang Yu & Allyson Ettinger (2023). Counterfactual reasoning: Testing language models' understanding of hypothetical scenarios. <i> Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL).</i> <a href="https://goldengua.github.io/files/ACL_2023_Counterfactual.pdf">[PDF]</a> </p>
@@ -16,6 +18,12 @@ author_profile: true
 <p> Jiaxuan Li, Lang Yu & Allyson Ettinger (2022). A unified information-theoretic model of EEG signatures of human language processing. <i> NeurIPS 2022 Workshop on Neuro Causal and Symbolic AI (nCSI) </i>, New Orleans, US, 2022. <a href = "https://arxiv.org/abs/2212.03278"> [PDF] </a> </p>
 
 <h2> Peer-reviewed Conference Presentations </h2>
+<p> <b> 2025 </b> </p>
+<p>Will Chih-Chao Chang, Jiaxuan Li & Xin Xie. Phonetic Encoding and Sentence Predictability in Continuous Speech. Society for the Neurobiology of Language 17th Annual Meeting, Washington, US, 2025. </p>
+<p>Jiaxuan Li, Weijie Xu, Judith Kroll & Xin Xie. Adapting to Foreign-Accented Speech: ERP Evidence of Interactions Between Phonetic and Semantic Processing. Society for the Neurobiology of Language 17th Annual Meeting, Washington, US, 2025. </p>
+<p> *Jiaxuan Li, *Kayla Keyue Chen, Anne Wang, Yuhan Shen, Yijia Luo, Richard Futrell & Wing-Yee Chow. The good-enough listener: A visual world paradigm reveals the interaction between prediction and bottom-up input. Society for the Neurobiology of Language 17th Annual Meeting, Washington, US, 2025. (*=equal contribution) </p>
+<p> *Yanting Li, *Jiaxuan Li, Shiva Upadhye, Noa Attali & Gregory Scontras.  Language models (LMs) prefer ambiguous utterances following informative contexts. Poster at the 37th Annual Conference on Human Sentence Processing (HSP), Maryland, US, 2025. (*= equal contribution)</p>
+
 <p> <b> 2024 </b> </p>
 
 <p> Jiaxuan Li, Hailin Hao & Richard Futrell. Language models can adapt better to within-clause than across-clause exchange errors. Poster at the 6th California Annual Meetings for Psycholinguistics (CAMP6), California, US, 2024.</p>
