@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 <h2> Publications </h2>
+<p>Jiaxuan Li & Richard Futrell (in preparation). Decomposition of surprisal: Unified computational model of ERP components in language processing. <a href "https://arxiv.org/abs/2409.06803">[PDF]</a>  </p>
 <p> *Shiva Upadhye, *Jiaxuan Li & Richard Futrell  (2025). SPACER: A Parallel Dataset of Speech Production And Comprehension of Error Repairs.  In <i> Proceedings of the Workshop on Cognitive Modeling and Computational Linguistics. </i> <a href "https://aclanthology.org/2025.cmcl-1.19/">[PDF]</a> (*= equal contribution) </p>
 <p>Jiaxuan Li, Alyssa Ortega, Richard Futrell & Rachel Ryskin (2025). Adaptation to noisy language input in real time: Evidence from ERPs. In <i>{Proceedings of the 47th Annual Meeting of the Cognitive Science Society.</i><a href = "https://escholarship.org/uc/item/8cm7p4hw#:~:text=Adaptation%20to%20noisy%20language%20input%20in%20real%20time%3A%20Evidence%20from%20ERPs,-2025&text=Language%20comprehension%20often%20deviates%20from,errors%20resembles%20more%20plausible%20alternatives.">[PDF]</a> </p>
 <p> Jiaxuan Li & Richard Futrell (2024). A information-theoretic model of shallow and deep language comprehension. <i> In Proceedings of the 46th Annual Meeting of the Cognitive Science Society.</i> <a href = "https://arxiv.org/abs/2405.08223">[PDF]</a> </p>
